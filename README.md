@@ -1,6 +1,9 @@
 # EducationalResourceApp
 
 ## Overview
+<h1 align="center">
+ <img src="![Uploading AdobeStock_243227135_Preview.jpeg…]()"/>
+</h1>
 ### Description
 The EducationResourceApp allows users to search for information regarding different aspects of education. The resources available to the students are for learning and awareness. 
 
